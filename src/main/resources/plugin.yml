@@ -1,0 +1,6 @@
+name: SkyBlockTweakers
+version: '${project.version}'
+main: com.molean.skyblocktweakers.SkyBlockTweakers
+api-version: 1.18
+commands:
+  slime: { }
